@@ -1,0 +1,6 @@
+name: J2 Tempbans
+version: 1.0
+main: to.joe.j2mc.tempbans.TempBans
+commands:
+  tban:
+  tpardon:
